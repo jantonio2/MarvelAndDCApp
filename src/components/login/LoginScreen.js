@@ -3,7 +3,7 @@ import { useHistory } from 'react-router';
 
 export const LoginScreen = () => {
   // Definir (En la documentacion esta como let)
-  const history = useHistory();
+  let history = useHistory();
 
   const handleLogin = () => {
     // history.push('/');
