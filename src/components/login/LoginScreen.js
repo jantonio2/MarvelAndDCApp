@@ -7,9 +7,9 @@ export const LoginScreen = () => {
   // Definir (En la documentacion esta como let)
   let history = useHistory();
   const {dispatch} = useContext(AuthContext)
-  const lasthPath = localStorage.getItem('lastPath') || '/'
   const handleLogin = () => {
     // history.push('/');
+    const lasthPath = localStorage.getItem('lastPath') || '/'
     
     const newUser = {name: 'Antonio'}
     dispatch({
