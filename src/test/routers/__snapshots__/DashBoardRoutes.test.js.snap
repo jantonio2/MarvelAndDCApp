@@ -17,19 +17,6 @@ Array [
       >
         ASOCIACIONES
       </a>
-      <button
-        aria-controls="navbarText"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-        className="navbar-toggler"
-        data-bs-target="#navbarText"
-        data-bs-toggle="collapse"
-        type="button"
-      >
-        <span
-          className="navbar-toggler-icon"
-        />
-      </button>
       <div
         className="collapse navbar-collapse"
         id="navbarText"
@@ -120,7 +107,7 @@ Array [
           <img
             alt="Spider Man"
             className="img img-responsive"
-            src="./assets/heroes/marvel-spider.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -165,7 +152,7 @@ Array [
           <img
             alt="Captain America"
             className="img img-responsive"
-            src="./assets/heroes/marvel-captain.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -210,7 +197,7 @@ Array [
           <img
             alt="Iron Man"
             className="img img-responsive"
-            src="./assets/heroes/marvel-iron.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -255,7 +242,7 @@ Array [
           <img
             alt="Thor"
             className="img img-responsive"
-            src="./assets/heroes/marvel-thor.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -300,7 +287,7 @@ Array [
           <img
             alt="Hulk"
             className="img img-responsive"
-            src="./assets/heroes/marvel-hulk.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -345,7 +332,7 @@ Array [
           <img
             alt="Wolverine"
             className="img img-responsive"
-            src="./assets/heroes/marvel-wolverine.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -390,7 +377,7 @@ Array [
           <img
             alt="Daredevil"
             className="img img-responsive"
-            src="./assets/heroes/marvel-daredevil.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -435,7 +422,7 @@ Array [
           <img
             alt="Hawkeye"
             className="img img-responsive"
-            src="./assets/heroes/marvel-hawkeye.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -480,7 +467,7 @@ Array [
           <img
             alt="Cyclops"
             className="img img-responsive"
-            src="./assets/heroes/marvel-cyclops.jpg"
+            src=""
           />
           <div
             className="profile-name"
@@ -525,7 +512,7 @@ Array [
           <img
             alt="Silver Surfer"
             className="img img-responsive"
-            src="./assets/heroes/marvel-silver.jpg"
+            src=""
           />
           <div
             className="profile-name"
