@@ -1,4 +1,4 @@
-import { mount, shallow } from 'enzyme'
+import { mount} from 'enzyme'
 import { MemoryRouter } from 'react-router-dom';
 import { PrivateRoute } from './../../routers/PrivateRoute';
 
